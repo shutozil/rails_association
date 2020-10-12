@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+## ポリモーフィック
+
+## 入り組んだアソシエーションのオプションの設定
